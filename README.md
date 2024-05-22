@@ -7,5 +7,5 @@ category page (admin can add new category, also update and delete category): <br
 ![Screenshot (69)](https://github.com/sayan39/ecommerce_app_adminside/assets/118959230/594617a5-eb0f-48b4-b263-110fed761a2e)
 product page (admin can add new product with price and details, also update and delete category): <br>
 ![Screenshot (70)](https://github.com/sayan39/ecommerce_app_adminside/assets/118959230/91448761-0a0e-4f6a-bef0-f6aaa30b788f)
-user page (admin can delete user): : <br>
+user page (admin can view user's login details delete user): <br>
 ![Screenshot (71)](https://github.com/sayan39/ecommerce_app_adminside/assets/118959230/0b67481c-8876-406e-a145-9683b86a6d51)
